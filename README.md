@@ -44,8 +44,38 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
 
+1. `Результат выполненной сборки на главной:`
+
+![Общий вид](https://cloud.mail.ru/public/PErP/BFz7F6yPb)`
+
+2. `Путь к результату:`
+
+![Через тернии к звёздам](https://cloud.mail.ru/public/3UFJ/wFqZbfwy4)`
+
+3. `Созданный контейнер в nexus:`
+
+![nexus](https://cloud.mail.ru/public/8CAF/f7rK22J1m)`
+
+4. `Настройки проекта и ссылка на github:`
+
+![Ссылка на репозиторий](https://cloud.mail.ru/public/Lyuv/4qsmpERuc)`
+
+5. `Настройки проекта и pipeline:`
+
+![pipeline](https://cloud.mail.ru/public/aU4m/DQXagHYqZ)`
+
+6. `Результат вывода в консоли-1:`
+
+![Консоль-1](https://cloud.mail.ru/public/Nxi3/DqnWMb4KV)`
+
+7. `Результат вывода в консоли-2:`
+
+![Консоль-2](https://cloud.mail.ru/public/HUxX/zkTEh9B98)`
+
+8. `Результат вывода в консоли-3:`
+
+![Консоль-3](https://cloud.mail.ru/public/ED3e/sBhTUdZg8)`
 
 ---
 
