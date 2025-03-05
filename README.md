@@ -47,35 +47,35 @@
 
 1. `Результат выполненной сборки на главной:`
 
-![Общий вид](https://cloud.mail.ru/public/PErP/BFz7F6yPb)`
+![Общий вид](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/1.jpg)`
 
 2. `Путь к результату:`
 
-![Через тернии к звёздам](https://cloud.mail.ru/public/3UFJ/wFqZbfwy4)`
+![Через тернии к звёздам](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/2.jpg)`
 
 3. `Созданный контейнер в nexus:`
 
-![nexus](https://cloud.mail.ru/public/8CAF/f7rK22J1m)`
+![nexus](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/3.jpg)`
 
 4. `Настройки проекта и ссылка на github:`
 
-![Ссылка на репозиторий](https://cloud.mail.ru/public/Lyuv/4qsmpERuc)`
+![Ссылка на репозиторий](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/4.jpg)`
 
 5. `Настройки проекта и pipeline:`
 
-![pipeline](https://cloud.mail.ru/public/aU4m/DQXagHYqZ)`
+![pipeline](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/5.jpg)`
 
 6. `Результат вывода в консоли-1:`
 
-![Консоль-1](https://cloud.mail.ru/public/Nxi3/DqnWMb4KV)`
+![Консоль-1](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/6.jpg)`
 
 7. `Результат вывода в консоли-2:`
 
-![Консоль-2](https://cloud.mail.ru/public/HUxX/zkTEh9B98)`
+![Консоль-2](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/7.jpg)`
 
 8. `Результат вывода в консоли-3:`
 
-![Консоль-3](https://cloud.mail.ru/public/ED3e/sBhTUdZg8)`
+![Консоль-3](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/8.jpg)`
 
 ---
 
