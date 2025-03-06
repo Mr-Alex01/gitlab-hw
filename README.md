@@ -149,7 +149,22 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+
+1. `Настройки проекта и pipeline:`
+
+![15](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/15.jpg)`
+
+2. `Результат вывода в консоли-1:`
+
+![16](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/16.jpg)`
+
+3. `Результат вывода в консоли-2:`
+
+![17](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/17.jpg)`
+
+4. `Созданный контейнер go-binaries в nexus:`
+
+![18](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/18.jpg)`
 
 ### Задание 4
 
