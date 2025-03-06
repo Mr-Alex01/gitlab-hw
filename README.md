@@ -101,7 +101,30 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+
+1. `Настройки проекта и pipeline:`
+
+![13](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/13.jpg)`
+
+2. `Результат вывода в консоли-1:`
+
+![9](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/9.jpg)`
+
+3. `Результат вывода в консоли-2:`
+
+![10](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/10.jpg)`
+
+4. `Результат вывода в консоли-3:`
+
+![11](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/11.jpg)`
+
+5. `Результат вывода в консоли-4:`
+
+![12](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/12.jpg)`
+
+6. `Созданный 2 контейнер в nexus v3:`
+
+![14](https://github.com/Mr-Alex01/gitlab-hw/blob/main/img/14.jpg)`
 
 
 ---
